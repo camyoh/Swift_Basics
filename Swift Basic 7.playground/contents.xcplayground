@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Structs'/>
+        <page name='Computed properties'/>
+        <page name='Property observers'/>
+        <page name='Methods'/>
+        <page name='Mutating methods'/>
+        <page name='Properties and methods of strings'/>
+        <page name='Properties and methods of arrays'/>
+        <page name='Initializers'/>
+        <page name='Referring to the current instance'/>
+        <page name='Lazy properties'/>
+        <page name='Static properties and methods'/>
+        <page name='Access control'/>
+    </pages>
+</playground>

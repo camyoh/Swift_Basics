@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Closures'/>
+        <page name='Parametros en Closure'/>
+        <page name='Retornando valores de un closure'/>
+        <page name='Closures como parametros'/>
+        <page name='Trailing closure'/>
+        <page name='Usando closures como parametros cuando aceptan parametros'/>
+        <page name='Closures como parametros cuando retornan valores'/>
+        <page name='Shorthand parameter names'/>
+        <page name='Closures con varios parametros'/>
+        <page name='Retornando closures de funciones'/>
+        <page name='Capturando valores'/>
+    </pages>
+</playground>

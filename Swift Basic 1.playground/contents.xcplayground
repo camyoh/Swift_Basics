@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Variables'/>
+        <page name='Strings and integers'/>
+        <page name='Multi-line Strings'/>
+        <page name='Doubles, Booleans'/>
+        <page name='String interpolation'/>
+        <page name='Constants'/>
+        <page name='Type annotations'/>
+    </pages>
+</playground>
